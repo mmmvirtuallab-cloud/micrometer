@@ -6,7 +6,7 @@ export const INTRO_CONTENT = {
     
     // Button Text & Link
     buttonLabel: "Experiment",
-    buttonLink: "micrometer.html",
+    buttonLink: "./micrometer.html",
 
     // Main Page Content
     mainHeading: "Study of Micrometer",
